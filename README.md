@@ -1,1 +1,1 @@
-This is a project that I created after virsiting Bletchley Park as I was fascinated by the ancryption devices on display and wanted to test myself by developing my own enigma machine using an Object Oriented approach with classes for each piece of hardware inside of the machine.
+This is a project that I created after virsiting Bletchley Park as I was fascinated by the ancryption devices on display and wanted to test myself by developing my own enigma machine using an Object Oriented approach with classes for each piece of hardware inside of the machine..
